@@ -34,7 +34,7 @@
 ![BitBucket](https://img.shields.io/badge/-BitBucket-darkblue?style=flat-square&logo=bitbucket)
 ![Raspberry Pi](https://img.shields.io/badge/-Raspberry%20Pi-C51A4A?style=flat-square&logo=Raspberry-Pi) -->
 
-<img alt="Awesome GitHub Profile Readme" src="assets/agpr.gif"> </img>
+<!-- <img alt="Awesome GitHub Profile Readme" src="assets/agpr.gif"> </img> -->
 
 <i>Te gusta el proyecto?? estamos apendiendo 😃🚀 </i>
 
@@ -51,6 +51,6 @@
       - [Hans183](https://github.com/hans183)
       
 
-## Agradecimiento 🙇
+## Agradecimientos 🙇
 
-[Profesor: Alejandro Dass] (https://github.com/aledass)
+Profesor: [Alejandro Dass](https://github.com/aledass)
