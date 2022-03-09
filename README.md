@@ -39,7 +39,7 @@
 </div>
 
 ### Colaboradores:
-  - [Nuestro team](#categories)
+  - [Nuestro team]
       - [Bak07](https://github.com/Bak07)
       - [Cristian Salas](https://github.com/cristian707) 
       - [Gastonjz21](https://github.com/Gastonjz21) 
