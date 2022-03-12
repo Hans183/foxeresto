@@ -34,7 +34,7 @@
 
 <!-- <img alt="Awesome GitHub Profile Readme" src="assets/agpr.gif"> </img> -->
 
-<i>Te gusta el proyecto?? estamos apendiendo 😃🚀 </i>
+<i>Te gusta el proyecto?? Estamos apendiendo!! 😃🚀 </i>
 
 </div>
 
