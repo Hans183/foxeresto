@@ -51,4 +51,4 @@
 
 ## Agradecimientos 🙇
 
-Profesor: [Alejandro Dass](https://github.com/aledass)
+Profesor: [Alejandro Dass](https://github.com/aledaas)
