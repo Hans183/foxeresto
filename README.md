@@ -45,6 +45,7 @@
       - [Gastonjz21](https://github.com/Gastonjz21) 
       - [Ignacio Ariel Gallo](https://github.com/Igna842)
       - [Leonardo Ramassa](https://github.com/Leoema89)
+      - [Nicolas Ocampo Adur](https://github.com/Supermanofthelife)
       - [SantiagoTiton](https://github.com/SantiagoTiton)
       - [Hans183](https://github.com/hans183)
       
